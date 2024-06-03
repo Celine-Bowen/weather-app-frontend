@@ -3,7 +3,13 @@ The weather data is retrieved from an api built in laravel.
 
 ## Getting Started
 
-First, install the dependencies:
+Clone the project:
+
+```bash
+git clone https://github.com/Celine-Bowen/weather-app-frontend.git
+```
+
+install the dependencies:
 
 ```bash
 npm install
